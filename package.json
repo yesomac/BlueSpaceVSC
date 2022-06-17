@@ -1,0 +1,42 @@
+{
+    "name": "bluespace",
+    "displayName": "BlueSpace",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.68.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+        "Themes",
+        "BlueSpace",
+        "BlueSpace II"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "BlueSpace",
+                "uiTheme": "vs-dark",
+                "path": "./themes/BlueSpace-color-theme.json"
+            },
+            {
+                "label": "BlueSpace II",
+                "uiTheme": "vs-dark",
+                "path": "./themes/BlueSpace-II-color-theme.json"
+            }
+        ]
+    },
+    "icon": "img/dark.png",
+    "author": {
+        "name": "Yes Dev",
+        "email": "yesdev19@gmail.com"
+    },
+    "repository": {
+        "url": "https://github.com/yesomac/BlueSpaceVSC.git",
+        "type": "git"
+    },
+    "publisher": "YesCode",
+    "license": "MIT"
+}
