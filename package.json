@@ -25,6 +25,16 @@
                 "label": "BlueSpace II",
                 "uiTheme": "vs-dark",
                 "path": "./themes/BlueSpace-II-color-theme.json"
+            },
+            {
+                "label": "BlueSpace III",
+                "uiTheme": "vs-dark",
+                "path": "./themes/BlueSpace-III-color-theme.json"
+            },
+            {
+                "label": "BlueSpace IV",
+                "uiTheme": "vs-dark",
+                "path": "./themes/BlueSpace-IV-color-theme.json"
             }
         ]
     },
