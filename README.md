@@ -1,13 +1,41 @@
-# README
-## This is the README for your extension "bluespace"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# BlueSpace
+## BlueSpace
+![This is a image](https://github.com/yesomac/BlueSpaceVSC/blob/main/img/blue_space_1.png?raw=true)
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+## BlueSpace
+![This is a image](https://github.com/yesomac/BlueSpaceVSC/blob/main/img/blue_space_2.png?raw=true)
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+## BlueSpace
+![This is a image](https://github.com/yesomac/BlueSpaceVSC/blob/main/img/blue_space_3.png?raw=true)
+
+## BlueSpace
+![This is a image](https://github.com/yesomac/BlueSpaceVSC/blob/main/img/blue_space_4.png?raw=true)
+
+---
+**Fonts:** 
+
+  * Comic Mono - https://dtinth.github.io/comic-mono-font/
+
+  * JetBrains Mono - https://www.jetbrains.com/lp/mono/
+
+**Icons:** Simple Icons - https://marketplace.visualstudio.com/items?itemName=Comdec.simple-icons
+
+---
+
+### More Themes
+
+* https://marketplace.visualstudio.com/items?itemName=YesCode.grayspace
+
+* https://marketplace.visualstudio.com/items?itemName=YesCode.soberTheme
+
+* https://marketplace.visualstudio.com/items?itemName=YesCode.only-dark-theme
+
+* https://marketplace.visualstudio.com/items?itemName=YesCode.darkspace
+
+* https://marketplace.visualstudio.com/items?itemName=YesCode.morita
+
+* https://marketplace.visualstudio.com/items?itemName=YesCode.purplespace
+
+* https://marketplace.visualstudio.com/items?itemName=YesCode.neutral
 
 **Enjoy!**
