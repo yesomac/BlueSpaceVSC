@@ -1,6 +1,6 @@
 # BlueSpace
 
-**New Themes**
+**New Themes***
 ## Blue Magenta
 ### BlueSpace V
 ![This is a image](https://github.com/yesomac/BlueSpaceVSC/blob/main/img/blue_space_5.png?raw=true)
