@@ -1,4 +1,18 @@
 # BlueSpace
+
+**New Themes**
+## Blue Magenta
+### BlueSpace V
+![This is a image](https://github.com/yesomac/BlueSpaceVSC/blob/main/img/blue_space_5.png?raw=true)
+
+### BlueSpace VI
+![This is a image](https://github.com/yesomac/BlueSpaceVSC/blob/main/img/blue_space_6.png?raw=true)
+
+### BlueSpace VII
+![This is a image](https://github.com/yesomac/BlueSpaceVSC/blob/main/img/blue_space_7.png?raw=true)
+
+---
+
 ## BlueSpace
 ![This is a image](https://github.com/yesomac/BlueSpaceVSC/blob/main/img/blue_space_1.png?raw=true)
 
