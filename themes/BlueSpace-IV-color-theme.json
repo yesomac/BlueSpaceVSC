@@ -8,7 +8,7 @@
     "sideBar.background": "#151b22",
     "statusBar.background": "#151b22",
     "statusBar.noFolderBackground": "#151b22",
-    "statusBar.debuggingBackground": "#151b22",
+    "statusBar.debuggingBackground": "#041e3b",
     "sideBarSectionHeader.background": "#151b22",
     "sideBarSectionHeader.foreground": "#ddd",
     "tab.activeBackground": "#0d1118",

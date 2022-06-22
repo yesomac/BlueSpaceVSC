@@ -93,7 +93,7 @@
     "activityBar.inactiveForeground": "#e7e7fc94",
     "scrollbarSlider.background": "#5d5e7d",
     "scrollbarSlider.activeBackground": "#5256d3a1",
-    "minimapSlider.background": "#1b215d",
+    "minimapSlider.background": "#1b205d96",
     "minimapSlider.hoverBackground": "#2a0b7a4d",
     "minimapSlider.activeBackground": "#00000028",
     "editor.rangeHighlightBackground": "#101027",
