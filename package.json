@@ -60,6 +60,11 @@
                 "label": "BlueSpace IX",
                 "uiTheme": "vs-dark",
                 "path": "./themes/BlueSpace-IX-color-theme.json"
+            },
+            {
+                "label": "BlueSpace X",
+                "uiTheme": "vs-dark",
+                "path": "./themes/BlueSpace-X-color-theme.json"
             }
         ]
     },
