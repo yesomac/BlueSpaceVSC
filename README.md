@@ -1,6 +1,24 @@
 # BlueSpace
 
 **New Themes***
+
+### BlueSpace X
+![This is a image](https://github.com/yesomac/BlueSpaceVSC/blob/main/img/blue_space_10.png?raw=true)
+
+---
+
+## BlueSpace
+![This is a image](https://github.com/yesomac/BlueSpaceVSC/blob/main/img/blue_space_1.png?raw=true)
+
+## BlueSpace
+![This is a image](https://github.com/yesomac/BlueSpaceVSC/blob/main/img/blue_space_2.png?raw=true)
+
+## BlueSpace
+![This is a image](https://github.com/yesomac/BlueSpaceVSC/blob/main/img/blue_space_3.png?raw=true)
+
+## BlueSpace
+![This is a image](https://github.com/yesomac/BlueSpaceVSC/blob/main/img/blue_space_4.png?raw=true)
+
 ### BlueSpace VIII
 ![This is a image](https://github.com/yesomac/BlueSpaceVSC/blob/main/img/blue_space_8.png?raw=true)
 
@@ -16,20 +34,6 @@
 
 ### BlueSpace VII
 ![This is a image](https://github.com/yesomac/BlueSpaceVSC/blob/main/img/blue_space_7.png?raw=true)
-
----
-
-## BlueSpace
-![This is a image](https://github.com/yesomac/BlueSpaceVSC/blob/main/img/blue_space_1.png?raw=true)
-
-## BlueSpace
-![This is a image](https://github.com/yesomac/BlueSpaceVSC/blob/main/img/blue_space_2.png?raw=true)
-
-## BlueSpace
-![This is a image](https://github.com/yesomac/BlueSpaceVSC/blob/main/img/blue_space_3.png?raw=true)
-
-## BlueSpace
-![This is a image](https://github.com/yesomac/BlueSpaceVSC/blob/main/img/blue_space_4.png?raw=true)
 
 ---
 **Fonts:** 
