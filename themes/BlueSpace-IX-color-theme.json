@@ -140,6 +140,10 @@
     // "terminal.findMatchBorder": "#2051e4",
     "terminal.findMatchHighlightBackground": "#2b3650",
     "terminalOverviewRuler.cursorForeground": "#fff",
+
+    "icon.foreground": "#89acf7",
+    "tree.indentGuidesStroke": "#84a1dfc9",
+    "editorIndentGuide.background": "#7a9ff017",
   },
   "tokenColors": [
     {
