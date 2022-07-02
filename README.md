@@ -2,8 +2,8 @@
 
 **New Themes***
 
-### BlueSpace X
-![This is a image](https://github.com/yesomac/BlueSpaceVSC/blob/main/img/blue_space_10.png?raw=true)
+### BlueSpace XI
+![This is a image](https://github.com/yesomac/BlueSpaceVSC/blob/main/img/blue_space_11.png?raw=true)
 
 ---
 
@@ -34,6 +34,9 @@
 
 ### BlueSpace VII
 ![This is a image](https://github.com/yesomac/BlueSpaceVSC/blob/main/img/blue_space_7.png?raw=true)
+
+### BlueSpace X
+![This is a image](https://github.com/yesomac/BlueSpaceVSC/blob/main/img/blue_space_10.png?raw=true)
 
 ---
 **Fonts:** 
