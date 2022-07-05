@@ -2,7 +2,7 @@
     "name": "bluespace",
     "displayName": "BlueSpace",
     "description": "",
-    "version": "0.0.6",
+    "version": "0.0.7",
     "engines": {
         "vscode": "^1.68.0"
     },
@@ -75,6 +75,11 @@
                 "label": "BlueSpace XII",
                 "uiTheme": "vs-dark",
                 "path": "./themes/BlueSpace-XII-color-theme.json"
+            },
+            {
+                "label": "BlueSpace XIII",
+                "uiTheme": "vs-dark",
+                "path": "./themes/BlueSpace-XIII-color-theme.json"
             }
         ]
     },
