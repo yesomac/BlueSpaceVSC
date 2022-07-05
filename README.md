@@ -5,6 +5,9 @@
 ### BlueSpace XI
 ![This is a image](https://github.com/yesomac/BlueSpaceVSC/blob/main/img/blue_space_11.png?raw=true)
 
+### BlueSpace XII
+![This is a image](https://github.com/yesomac/BlueSpaceVSC/blob/main/img/blue_space_12.png?raw=true)
+
 ---
 
 ## BlueSpace
