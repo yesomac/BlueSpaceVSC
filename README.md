@@ -2,8 +2,11 @@
 
 **New Theme***
 
-### BlueSpace XIV
-![This is a image](https://github.com/yesomac/BlueSpaceVSC/blob/main/img/blue_space-XIV.png?raw=true)
+### BlueSpace XV
+![This is a image](https://github.com/yesomac/BlueSpaceVSC/blob/main/img/blue_space_15-XIV.png?raw=true)
+
+### BlueSpace XVI
+![This is a image](https://github.com/yesomac/BlueSpaceVSC/blob/main/img/blue_space_16-XIV.png?raw=true)
 
 ---
 
@@ -43,6 +46,9 @@
 
 ### BlueSpace XII
 ![This is a image](https://github.com/yesomac/BlueSpaceVSC/blob/main/img/blue_space_12.png?raw=true)
+
+### BlueSpace XIV
+![This is a image](https://github.com/yesomac/BlueSpaceVSC/blob/main/img/blue_space-XIV.png?raw=true)
 
 ---
 **Fonts:** 
