@@ -1,12 +1,18 @@
 # BlueSpace
 
-**New Theme***
+**New Theme**
 
-### BlueSpace XV
-![This is a image](https://github.com/yesomac/BlueSpaceVSC/blob/main/img/blue_space_15-XIV.png?raw=true)
+### BlueSpace Sober
+![This is a image](https://github.com/yesomac/BlueSpaceVSC/blob/main/img/blue_space_sober.png?raw=true)
 
-### BlueSpace XVI
-![This is a image](https://github.com/yesomac/BlueSpaceVSC/blob/main/img/blue_space_16-XIV.png?raw=true)
+### BlueSpace Sober II
+![This is a image](https://github.com/yesomac/BlueSpaceVSC/blob/main/img/blue_space_sober_2.png?raw=true)
+
+### BlueSpace Sober III
+![This is a image](https://github.com/yesomac/BlueSpaceVSC/blob/main/img/blue_space_sober_3.png?raw=true)
+
+### BlueSpace Sober IV
+![This is a image](https://github.com/yesomac/BlueSpaceVSC/blob/main/img/blue_space_sober_4.png?raw=true)
 
 ---
 
@@ -49,6 +55,12 @@
 
 ### BlueSpace XIV
 ![This is a image](https://github.com/yesomac/BlueSpaceVSC/blob/main/img/blue_space-XIV.png?raw=true)
+
+### BlueSpace XV
+![This is a image](https://github.com/yesomac/BlueSpaceVSC/blob/main/img/blue_space_15-XIV.png?raw=true)
+
+### BlueSpace XVI
+![This is a image](https://github.com/yesomac/BlueSpaceVSC/blob/main/img/blue_space_16-XIV.png?raw=true)
 
 ---
 **Fonts:** 
