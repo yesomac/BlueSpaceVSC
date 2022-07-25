@@ -164,7 +164,7 @@
     "tab.unfocusedActiveBorderTop": "#8d85be9c",
     "tab.inactiveForeground": "#cdcdcd",
     "tab.unfocusedActiveForeground": "#f3f5f8",
-    "tab.unfocusedInactiveBackground": "#324651",
+    "tab.unfocusedInactiveBackground": "#222b35",
     "tab.unfocusedInactiveForeground": "#cdcdcd",
     "panelTitle.activeBorder": "#bdffe9",
     "panelTitle.activeForeground": "#bdffe9",
