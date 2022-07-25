@@ -19,7 +19,7 @@
 		"tab.activeBorderTop": "#151b22", //55447f
 		"tab.border": "#0d1117",
 		"activityBar.background": "#0d1117",
-		"titleBar.activeBackground": "#0d1117",
+		"titleBar.activeBackground": "#151b22",
 		"editorGroupHeader.tabsBackground": "#0d1117",
 		"editor.selectionBackground": "#090f3c",
 		"editor.inactiveSelectionBackground": "#090f3c",
@@ -76,7 +76,7 @@
 		"activityBar.activeBorder": "#0052cc",
 		"menu.border": "#151b22",
 		"panel.border": "#0e8379",
-		"titleBar.border": "#0d1117",
+		"titleBar.border": "#151b22",
 		"tab.hoverBorder": "#151b22",
 		"statusBar.border": "#151b22",
 		"notifications.border": "#151b22",

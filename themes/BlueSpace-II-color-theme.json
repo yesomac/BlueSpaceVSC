@@ -16,10 +16,10 @@
     "tab.hoverBackground": "#0d1117",
     "tab.activeBorder": "#0d1117",
     "tab.activeForeground": "#fff",
-    "tab.activeBorderTop": "#151b22", //55447f
+    "tab.activeBorderTop": "#0d1117", //55447f
     "tab.border": "#151b22",
     "activityBar.background": "#151b22",
-    "titleBar.activeBackground": "#151b22",
+    "titleBar.activeBackground": "#0d1117",
     "editorGroupHeader.tabsBackground": "#151b22",
     "editor.selectionBackground": "#090f3c",
     "editor.inactiveSelectionBackground": "#090f3c",
@@ -76,7 +76,7 @@
     "activityBar.activeBorder": "#0052cc",
     "menu.border": "#0d1117",
     "panel.border": "#0e8379",
-    "titleBar.border": "#151b22",
+    "titleBar.border": "#0d1117",
     "tab.hoverBorder": "#151b22",
     "statusBar.border": "#151b22",
     "notifications.border": "#151b22",
