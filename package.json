@@ -95,6 +95,26 @@
                 "label": "BlueSpace XVI",
                 "uiTheme": "vs-dark",
                 "path": "./themes/BlueSpace-XVI-color-theme.json"
+            },
+            {
+                "label": "BlueSpace Sober",
+                "uiTheme": "vs-dark",
+                "path": "./themes/BlueSpace-sober-color-theme.json"
+            },
+            {
+                "label": "BlueSpace Sober II",
+                "uiTheme": "vs-dark",
+                "path": "./themes/BlueSpace-sober-II-color-theme.json"
+            },
+            {
+                "label": "BlueSpace Sober III",
+                "uiTheme": "vs-dark",
+                "path": "./themes/BlueSpace-sober-III-color-theme.json"
+            },
+            {
+                "label": "BlueSpace Sober IV",
+                "uiTheme": "vs-dark",
+                "path": "./themes/BlueSpace-sober-IV-color-theme.json"
             }
         ]
     },
