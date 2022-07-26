@@ -69,7 +69,7 @@
     "terminal.ansiYellow": "#FAC03B",
     "editor.hoverHighlightBackground": "#5e48a1", ///sombre de la palabra
     "editorHoverWidget.background": "#141b22",
-    "list.activeSelectionBackground": "#0e8379",
+    "list.activeSelectionBackground": "#212131",
     "sideBar.border": "#141b22",
     "sideBarSectionHeader.border": "#27435f41",
     "activityBar.border": "#141b22",
