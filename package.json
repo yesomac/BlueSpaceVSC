@@ -125,6 +125,21 @@
                 "label": "BlueSpace Sober VI",
                 "uiTheme": "vs-dark",
                 "path": "./themes/BlueSpace-sober-VI-color-theme.json"
+            },
+            {
+                "label": "BlueSpace Sober VII",
+                "uiTheme": "vs-dark",
+                "path": "./themes/BlueSpace-sober-VII-color-theme.json"
+            },
+            {
+                "label": "BlueSpace Sober VIII",
+                "uiTheme": "vs-dark",
+                "path": "./themes/BlueSpace-sober-VIII-color-theme.json"
+            },
+            {
+                "label": "BlueSpace Sober IX",
+                "uiTheme": "vs-dark",
+                "path": "./themes/BlueSpace-sober-IX-color-theme.json"
             }
         ]
     },
