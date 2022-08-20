@@ -1,12 +1,9 @@
 # BlueSpace
 
-**New Themes**
+**New Theme**
 
 ### BlueSpace Sober VIII
-![This is a image](https://github.com/yesomac/BlueSpaceVSC/blob/main/img/blue_space-VIII.png?raw=true)
-
-### BlueSpace Sober IX
-![This is a image](https://github.com/yesomac/BlueSpaceVSC/blob/main/img/blue_space_sober_IX.png?raw=true)
+![This is a image]()
 
 ---
 
@@ -15,6 +12,12 @@
 
 ### BlueSpace Sober VI
 ![This is a image](https://github.com/yesomac/BlueSpaceVSC/blob/main/img/blue_space_sober_6.png?raw=true)
+
+### BlueSpace Sober VIII
+![This is a image](https://github.com/yesomac/BlueSpaceVSC/blob/main/img/blue_space-VIII.png?raw=true)
+
+### BlueSpace Sober IX
+![This is a image](https://github.com/yesomac/BlueSpaceVSC/blob/main/img/blue_space_sober_IX.png?raw=true)
 
 ## BlueSpace
 ![This is a image](https://github.com/yesomac/BlueSpaceVSC/blob/main/img/blue_space_1.png?raw=true)
