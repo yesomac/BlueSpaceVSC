@@ -3,7 +3,7 @@
 **New Theme**
 
 ### BlueSpace Sober VIII
-![This is a image]()
+![This is a image](https://github.com/yesomac/BlueSpaceVSC/blob/main/img/blue_space_sober10.png?raw=true)
 
 ---
 
