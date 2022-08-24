@@ -2,40 +2,36 @@
 
 **New Theme**
 
-### BlueSpace Sober VIII
+### BlueSpace Sober X
 ![This is a image](https://github.com/yesomac/BlueSpaceVSC/blob/main/img/blue_space_sober10.png?raw=true)
 
+### BlueSpace Sober XI
+![This is a image](https://github.com/yesomac/BlueSpaceVSC/blob/main/img/blue_space_sober11.png?raw=true)
+
+### BlueSpace Sober XII
+![This is a image](https://github.com/yesomac/BlueSpaceVSC/blob/main/img/blue_space_sober10.png?raw=true)
+
+### BlueSpace Sober XIII
+![This is a image](https://github.com/yesomac/BlueSpaceVSC/blob/main/img/blue_space_sober12.png?raw=true)
+
+### BlueSpace Sober XIII
+![This is a image](https://github.com/yesomac/BlueSpaceVSC/blob/main/img/blue_space_sober13.png?raw=true)
+
 ---
+### BlueSpace
+![This is a image]()
 
-### BlueSpace Sober II
-![This is a image](https://github.com/yesomac/BlueSpaceVSC/blob/main/img/blue_space_sober_2.png?raw=true)
+### BlueSpace II
+![This is a image]()
 
-### BlueSpace Sober VI
-![This is a image](https://github.com/yesomac/BlueSpaceVSC/blob/main/img/blue_space_sober_6.png?raw=true)
+### BlueSpace III
+![This is a image]()
 
-### BlueSpace Sober VIII
-![This is a image](https://github.com/yesomac/BlueSpaceVSC/blob/main/img/blue_space-VIII.png?raw=true)
+### BlueSpace IV
+![This is a image]()
 
-### BlueSpace Sober IX
-![This is a image](https://github.com/yesomac/BlueSpaceVSC/blob/main/img/blue_space_sober_IX.png?raw=true)
-
-## BlueSpace
-![This is a image](https://github.com/yesomac/BlueSpaceVSC/blob/main/img/blue_space_1.png?raw=true)
-
-## BlueSpace
-![This is a image](https://github.com/yesomac/BlueSpaceVSC/blob/main/img/blue_space_2.png?raw=true)
-
-## BlueSpace
-![This is a image](https://github.com/yesomac/BlueSpaceVSC/blob/main/img/blue_space_3.png?raw=true)
-
-## BlueSpace
-![This is a image](https://github.com/yesomac/BlueSpaceVSC/blob/main/img/blue_space_4.png?raw=true)
-
-### BlueSpace VII
-![This is a image](https://github.com/yesomac/BlueSpaceVSC/blob/main/img/blue_space_7.png?raw=true)
-
-### BlueSpace XI
-![This is a image](https://github.com/yesomac/BlueSpaceVSC/blob/main/img/blue_space_11.png?raw=true)
+### BlueSpace V
+![This is a image]()
 
 
 ---
