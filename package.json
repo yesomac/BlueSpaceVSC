@@ -2,7 +2,7 @@
     "name": "bluespace",
     "displayName": "BlueSpace",
     "description": "",
-    "version": "0.0.18",
+    "version": "0.0.19",
     "engines": {
         "vscode": "^1.68.0"
     },
@@ -16,6 +16,71 @@
     ],
     "contributes": {
         "themes": [
+            {
+                "label": "BlueSpace Sober X",
+                "uiTheme": "vs-dark",
+                "path": "./themes/BlueSpace-sober-X-color-theme.json"
+            },
+            {
+                "label": "BlueSpace Sober IX",
+                "uiTheme": "vs-dark",
+                "path": "./themes/BlueSpace-sober-IX-color-theme.json"
+            },
+            {
+                "label": "BlueSpace Sober XI",
+                "uiTheme": "vs-dark",
+                "path": "./themes/BlueSpace-sober-XI-color-theme.json"
+            },
+            {
+                "label": "BlueSpace Sober XII",
+                "uiTheme": "vs-dark",
+                "path": "./themes/BlueSpace-sober-XII-color-theme.json"
+            },
+            {
+                "label": "BlueSpace Sober XIII",
+                "uiTheme": "vs-dark",
+                "path": "./themes/BlueSpace-sober-XIII-color-theme.json"
+            },
+            {
+                "label": "BlueSpace Sober",
+                "uiTheme": "vs-dark",
+                "path": "./themes/BlueSpace-sober-color-theme.json"
+            },
+            {
+                "label": "BlueSpace Sober II",
+                "uiTheme": "vs-dark",
+                "path": "./themes/BlueSpace-sober-II-color-theme.json"
+            },
+            {
+                "label": "BlueSpace Sober III",
+                "uiTheme": "vs-dark",
+                "path": "./themes/BlueSpace-sober-III-color-theme.json"
+            },
+            {
+                "label": "BlueSpace Sober IV",
+                "uiTheme": "vs-dark",
+                "path": "./themes/BlueSpace-sober-IV-color-theme.json"
+            },
+            {
+                "label": "BlueSpace Sober V",
+                "uiTheme": "vs-dark",
+                "path": "./themes/BlueSpace-sober-V-color-theme.json"
+            },
+            {
+                "label": "BlueSpace Sober VI",
+                "uiTheme": "vs-dark",
+                "path": "./themes/BlueSpace-sober-VI-color-theme.json"
+            },
+            {
+                "label": "BlueSpace Sober VII",
+                "uiTheme": "vs-dark",
+                "path": "./themes/BlueSpace-sober-VII-color-theme.json"
+            },
+            {
+                "label": "BlueSpace Sober VIII",
+                "uiTheme": "vs-dark",
+                "path": "./themes/BlueSpace-sober-VIII-color-theme.json"
+            },
             {
                 "label": "BlueSpace",
                 "uiTheme": "vs-dark",
@@ -95,56 +160,6 @@
                 "label": "BlueSpace XVI",
                 "uiTheme": "vs-dark",
                 "path": "./themes/BlueSpace-XVI-color-theme.json"
-            },
-            {
-                "label": "BlueSpace Sober",
-                "uiTheme": "vs-dark",
-                "path": "./themes/BlueSpace-sober-color-theme.json"
-            },
-            {
-                "label": "BlueSpace Sober II",
-                "uiTheme": "vs-dark",
-                "path": "./themes/BlueSpace-sober-II-color-theme.json"
-            },
-            {
-                "label": "BlueSpace Sober III",
-                "uiTheme": "vs-dark",
-                "path": "./themes/BlueSpace-sober-III-color-theme.json"
-            },
-            {
-                "label": "BlueSpace Sober IV",
-                "uiTheme": "vs-dark",
-                "path": "./themes/BlueSpace-sober-IV-color-theme.json"
-            },
-            {
-                "label": "BlueSpace Sober V",
-                "uiTheme": "vs-dark",
-                "path": "./themes/BlueSpace-sober-V-color-theme.json"
-            },
-            {
-                "label": "BlueSpace Sober VI",
-                "uiTheme": "vs-dark",
-                "path": "./themes/BlueSpace-sober-VI-color-theme.json"
-            },
-            {
-                "label": "BlueSpace Sober VII",
-                "uiTheme": "vs-dark",
-                "path": "./themes/BlueSpace-sober-VII-color-theme.json"
-            },
-            {
-                "label": "BlueSpace Sober VIII",
-                "uiTheme": "vs-dark",
-                "path": "./themes/BlueSpace-sober-VIII-color-theme.json"
-            },
-            {
-                "label": "BlueSpace Sober IX",
-                "uiTheme": "vs-dark",
-                "path": "./themes/BlueSpace-sober-IX-color-theme.json"
-            },
-            {
-                "label": "BlueSpace Sober X",
-                "uiTheme": "vs-dark",
-                "path": "./themes/BlueSpace-sober-X-color-theme.json"
             }
         ]
     },
