@@ -2,7 +2,7 @@
     "name": "bluespace",
     "displayName": "BlueSpace",
     "description": "",
-    "version": "0.0.19",
+    "version": "0.0.20",
     "engines": {
         "vscode": "^1.68.0"
     },
@@ -45,6 +45,11 @@
                 "label": "BlueSpace Sober",
                 "uiTheme": "vs-dark",
                 "path": "./themes/BlueSpace-sober-color-theme.json"
+            },
+            {
+                "label": "BlueSpace Sober S",
+                "uiTheme": "vs-dark",
+                "path": "./themes/BlueSpace-sober-s-color-theme.json"
             },
             {
                 "label": "BlueSpace Sober II",
