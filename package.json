@@ -2,7 +2,7 @@
     "name": "bluespace",
     "displayName": "BlueSpace",
     "description": "",
-    "version": "0.0.20",
+    "version": "0.0.21",
     "engines": {
         "vscode": "^1.68.0"
     },
@@ -45,6 +45,26 @@
                 "label": "BlueSpace Sober",
                 "uiTheme": "vs-dark",
                 "path": "./themes/BlueSpace-sober-color-theme.json"
+            },
+            {
+                "label": "BlueSpace Sober Light",
+                "uiTheme": "vs-dark",
+                "path": "./themes/BlueSpace-sober-light-color-theme.json"
+            },
+            {
+                "label": "BlueSpace Sober Light S",
+                "uiTheme": "vs-dark",
+                "path": "./themes/BlueSpace-sober-light-s-color-theme.json"
+            },
+            {
+                "label": "BlueSpace Sober Light S2",
+                "uiTheme": "vs-dark",
+                "path": "./themes/BlueSpace-sober-light-s-II-color-theme.json"
+            },
+            {
+                "label": "BlueSpace Sober Light S3",
+                "uiTheme": "vs-dark",
+                "path": "./themes/BlueSpace-sober-light-s-IIi-color-theme.json"
             },
             {
                 "label": "BlueSpace Sober S",
