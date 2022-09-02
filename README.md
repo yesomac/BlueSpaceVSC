@@ -17,6 +17,15 @@
 ### BlueSpace Sober XIII
 ![This is a image](https://github.com/yesomac/BlueSpaceVSC/blob/main/img/blue_space_sober13.png?raw=true)
 
+### BlueSpace Sober Light S
+![This is a image](https://github.com/yesomac/BlueSpaceVSC/blob/main/img/blue_space_sober_light.png?raw=true)
+
+### BlueSpace Sober Light S3
+![This is a image](https://github.com/yesomac/BlueSpaceVSC/blob/main/img/blue_space_sober_light-s.png?raw=true)
+
+### BlueSpace Sober Light
+![This is a image](https://github.com/yesomac/BlueSpaceVSC/blob/main/img/blue_space_sober_light-S3.png?raw=true)
+
 ---
 ### BlueSpace
 ![This is a image](https://github.com/yesomac/BlueSpaceVSC/blob/main/img/blue_space_1.png?raw=true)
