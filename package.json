@@ -11,8 +11,7 @@
     ],
     "keywords": [
         "Themes",
-        "BlueSpace",
-        "BlueSpace II"
+        "BlueSpace"
     ],
     "contributes": {
         "themes": [
@@ -185,6 +184,21 @@
                 "label": "BlueSpace XVI",
                 "uiTheme": "vs-dark",
                 "path": "./themes/BlueSpace-XVI-color-theme.json"
+            },
+            {
+                "label": "BlueSpace S",
+                "uiTheme": "vs-dark",
+                "path": "./themes/BlueSpace-S-color-theme.json"
+            },
+            {
+                "label": "BlueSpace S Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/BlueSpace-S-Dark-color-theme.json"
+            },
+            {
+                "label": "BlueSpace S Light",
+                "uiTheme": "vs-dark",
+                "path": "./themes/BlueSpace-S-Light-Dark-color-theme.json"
             }
         ]
     },
