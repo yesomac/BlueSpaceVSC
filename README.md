@@ -1,6 +1,6 @@
 # BlueSpace
 
-**New Theme**
+<!--**New Theme**
 
 ### BlueSpace Sober X
 ![This is a image](https://github.com/yesomac/BlueSpaceVSC/blob/main/img/blue_space_sober10.png?raw=true)
@@ -40,8 +40,9 @@
 ![This is a image](https://github.com/yesomac/BlueSpaceVSC/blob/main/img/blue_space_4.png?raw=true)
 
 ### BlueSpace V
-![This is a image](https://github.com/yesomac/BlueSpaceVSC/blob/main/img/blue_space_5.png?raw=true)
+![This is a image](https://github.com/yesomac/BlueSpaceVSC/blob/main/img/blue_space_5.png?raw=true)-->
 
+![This is a image](https://github.com/yesomac/BlueSpaceVSC/blob/main/img/b/bluespace.jpg?raw=true)
 
 ---
 **Fonts:** 
@@ -54,6 +55,8 @@
 
 **Icons:** 
 * Symbols - https://marketplace.visualstudio.com/items?itemName=miguelsolorio.symbols
+
+![This is a image](https://github.com/yesomac/BlueSpaceVSC/blob/main/img/b/bluespace2.jpg?raw=true)
 
 ---
 
